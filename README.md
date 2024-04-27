@@ -19,6 +19,7 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery"/>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React"/>
    <img src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" title="Testing Library"/>
+   <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.JS" />
    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM"/>
    <img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint"/>
    <img src="https://img.shields.io/badge/webpack-333333?style=for-the-badge&logo=webpack&logoColor=white" title="Webpack"/>
@@ -31,8 +32,6 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/local-51BB7B?style=for-the-badge&logo=local&logoColor=white" title="Local"/>
    <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft Office"/>
    <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" title="Adobe"/>
-   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
-   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Dart" />
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
