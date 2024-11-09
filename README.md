@@ -2,8 +2,6 @@
 
 Hello there! I'm a dedicated developer, shaping my digital footprint with a meticulous approach to every project. From concept to code, I thrive on the entire process, blending innovation with problem-solving. My work isn't just about programming; it's a commitment to crafting unique solutions and pushing the boundaries of what technology can achieve. Whether streamlining processes or tackling complex challenges, I embrace each opportunity to make a real-world impact. Beyond the screen, I'm a perpetual learner, staying ahead in the dynamic tech landscape.
 
----
-
 <!-- ## 🛠️ Languages and Tools -->
 
 <!-- https://simpleicons.org/ -->
