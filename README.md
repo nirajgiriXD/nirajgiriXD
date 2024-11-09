@@ -4,11 +4,11 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
 
 ---
 
-## 🛠️ Languages and Tools
+<!-- ## 🛠️ Languages and Tools -->
 
-<!-- https://simpleicons.org/-->
+<!-- https://simpleicons.org/ -->
 
-<div>
+<!-- <div>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown"/>
    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS"/>
@@ -31,15 +31,15 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
    <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
    <img src="https://img.shields.io/badge/local-51BB7B?style=for-the-badge&logo=local&logoColor=white" title="Local"/>
-<!--    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/> -->
-<!--    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/> -->
+   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
    <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium"/>
    <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" title="Puppeteer"/>
    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio Code" />
    <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
-</div>
+</div> -->
 
 ---
 
