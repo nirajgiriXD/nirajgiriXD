@@ -1,6 +1,6 @@
-# Niraj Giri
+<!-- # Niraj Giri -->
 
-Hello there! I'm a dedicated developer, shaping my digital footprint with a meticulous approach to every project. From concept to code, I thrive on the entire process, blending innovation with problem-solving. My work isn't just about programming; it's a commitment to crafting unique solutions and pushing the boundaries of what technology can achieve. Whether streamlining processes or tackling complex challenges, I embrace each opportunity to make a real-world impact. Beyond the screen, I'm a perpetual learner, staying ahead in the dynamic tech landscape.
+<!-- Hello there! I'm a dedicated developer, shaping my digital footprint with a meticulous approach to every project. From concept to code, I thrive on the entire process, blending innovation with problem-solving. My work isn't just about programming; it's a commitment to crafting unique solutions and pushing the boundaries of what technology can achieve. Whether streamlining processes or tackling complex challenges, I embrace each opportunity to make a real-world impact. Beyond the screen, I'm a perpetual learner, staying ahead in the dynamic tech landscape. -->
 
 <!-- ## 🛠️ Languages and Tools -->
 
@@ -39,19 +39,14 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
 </div> -->
 
----
+<!-- ## 🏆 Stats -->
 
-## 🏆 Stats
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=nirajgiriXD&theme=gruvbox&border_radius=4.5) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nirajgiriXD&theme=gruvbox&border_radius=4.5)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox) -->
 
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox)
-
----
-
-<details>
+<!-- <details>
    <summary>
       <h3>👨‍💻 My Coding Journey</h3>
    </summary>
@@ -64,4 +59,4 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <p>
       Come along on this thrilling adventure as we continue to shape the digital world, one thoughtful line of code at a time.
    </p>
-</details>
+</details> -->
